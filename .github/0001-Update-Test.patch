@@ -1,0 +1,24 @@
+From b2e9c457fd48a826907f0577fa60a5590818e66f Mon Sep 17 00:00:00 2001
+From: Akshay <30651546+Akshaykorde@users.noreply.github.com>
+Date: Wed, 30 Jul 2025 16:07:07 +0530
+Subject: [PATCH] Update Test
+
+---
+ Test | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+diff --git a/Test b/Test
+index 4a9c65d..3153a56 100644
+--- a/Test
++++ b/Test
+@@ -1,6 +1,5 @@
+ test
+ Pass="whsuwv";
+-Pass="whsuwv123";
+-
++test
+ \\\\\
+ delete pass secret
+-- 
+2.41.0.windows.3
+
